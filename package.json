@@ -1,0 +1,9 @@
+{
+  "name": "@malahngoding/instead",
+  "version": "0.0.0-alpha.0",
+  "description": "The Design Systems",
+  "repository": "https://github.com/malahngoding/instead.git",
+  "author": "Untung So Andryanto <untungsoandryanto@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
