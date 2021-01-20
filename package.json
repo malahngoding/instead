@@ -1,6 +1,6 @@
 {
   "name": "@malahngoding/instead",
-  "version": "0.0.2-alpha.3",
+  "version": "0.0.5-alpha",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "scripts": {
